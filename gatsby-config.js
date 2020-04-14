@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     pathPrefix: "/blog",
     title: `Experimentality Blog`,
+    keywords: 'experimentality',
     author: {
       name: `Frank Castrillón`,
       summary: `who lives and works in Medellín building useful things for everybody.`,
